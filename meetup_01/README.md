@@ -1,4 +1,4 @@
-# Basede on Udacity notebook from Machine Learning Engineer Nanodegree 
+# Basede on notebooks' Machine Learning Engineer Nanodegree from Udacity
 
 ## Project: Titanic Survival Exploration
 
